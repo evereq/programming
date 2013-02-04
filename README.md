@@ -1,6 +1,8 @@
 # Some Cool Things To Know About Me & Programming
 
-- Check my **Wiki**: <https://github.com/evereq/programming/wiki>  
+- Check my latest project **Pinlr**: <http://www.pinlr.com> which allows you to Discover, Share & Organize not only Images & Videos, but also Github repositories, jsFiddle code samples and even Hacker News posts!
+- Check my own **Evereq, Inc Company** site: <http://www.evereq.com> to know more about who am I and what I do.
+- Check my Github **Wiki**: <https://github.com/evereq/programming/wiki>
 - Read my **Blog**: <http://blog.evereq.com>
 
 ### Review my latest **OSS Projects**: 
