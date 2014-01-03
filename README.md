@@ -20,3 +20,7 @@ using Highlight.js
 ***
 
 To be continue...  
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/evereq/programming/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
